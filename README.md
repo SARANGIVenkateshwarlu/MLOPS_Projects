@@ -9,11 +9,7 @@ git commit -m "update"
 git push
 
 git submodule add https://github.com/yourusername/project1.git
-git submodule add https://github.com/yourusername/project2.git
-
-git add .
-git commit -m "Added mlops projects as submodules"
-git push
+git submodule add https://github.com/yourusername/project2.git 
 
 # <h2 align="center">📌  MLOPS Projects Summary </h2>
 
