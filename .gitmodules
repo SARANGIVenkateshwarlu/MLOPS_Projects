@@ -1,0 +1,6 @@
+[submodule "githubactions_CI-CD_dockerimg"]
+	path = githubactions_CI-CD_dockerimg
+	url = https://github.com/SARANGIVenkateshwarlu/githubactions_CI-CD_dockerimg.git
+[submodule "NLP_Projects"]
+	path = NLP_Projects
+	url = https://github.com/SARANGIVenkateshwarlu/NLP_Projects.git

@@ -1,5 +1,5 @@
 mlops-01-data-versioning-dvc
-mlops-02-mlflow-tracking
+mlops-02-DVC-model-tracking
 mlops-03-ci-cd-ml-pipeline
 mlops-04-docker-k8s-serving
 
@@ -8,6 +8,12 @@ git add .
 git commit -m "update"
 git push
 
+git submodule add https://github.com/yourusername/project1.git
+git submodule add https://github.com/yourusername/project2.git
+
+git add .
+git commit -m "Added mlops projects as submodules"
+git push
 
 # <h2 align="center">📌  MLOPS Projects Summary </h2>
 
