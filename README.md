@@ -1,3 +1,14 @@
+mlops-01-data-versioning-dvc
+mlops-02-mlflow-tracking
+mlops-03-ci-cd-ml-pipeline
+mlops-04-docker-k8s-serving
+
+cd project1
+git add .
+git commit -m "update"
+git push
+
+
 # <h2 align="center">📌  MLOPS Projects Summary </h2>
 
 | 🚀 Projects |  🧩 Task | 🎯 Objective | 🛠️ Prominent Techniques / Tools |
